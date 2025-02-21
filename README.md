@@ -9,8 +9,12 @@
   📍 *Velammal College of Engineering and Technology, Madurai*
 
 ### 👯 I’m looking to collaborate on
-- **Virtual Reality-Based Gamified Learning Environment for STEM Education**  
+- **Virtual Reality-Based Gamified Learning Environment for STEM Education** (Jul'23 - Aug'23)  
   📍 *Shikshaa Academy, Madurai*
+
+### 🤝 I’m looking for help with
+- **Student Database System Using Web Development and Server Hosting** (Jun'23 - Jul'23)  
+  📍 *Futurik Technologies, Madurai*
 
 ### 🌱 I’m currently learning
 - Advanced Java  
@@ -20,7 +24,7 @@
 ### 💬 Ask me about
 - Web Development (HTML, CSS, JavaScript)  
 - Data Analytics  
-- Deep Learning Techniques  
+- Regression Analysis and Machine Learning  
 
 ### 📫 How to reach me
 - Email: [harrs2003@gmail.com](mailto:harrs2003@gmail.com)
@@ -46,6 +50,7 @@ I think I am funny 😄
 ### 🌐 Web Development
 - Frontend: HTML5, CSS3, Bootstrap, JavaScript  
 - Backend: SQL  
+- Hosting and Server Management  
 
 ### 📊 Data Analytics & Machine Learning
 - Regression Analysis, Data Science, Deep Learning  
@@ -62,6 +67,30 @@ I think I am funny 😄
 - Simplilearn - Data Analytics  
 - NPTEL - Cloud Computing  
 - Shikshaa - C, C++, Java, Python  
+
+---
+
+## 💻 Featured Projects
+
+### 🔬 **Glaucoma Disease Diagnosis with Deep Learning Techniques** (Jun'24 - Aug'24)  
+📍 *Velammal College of Engineering and Technology, Madurai*  
+- Developed a deep learning model to aid in the early detection of glaucoma using medical imaging data.  
+- Focused on enhancing diagnostic accuracy through advanced machine learning techniques.  
+
+### 🎮 **Virtual Reality-Based Gamified Learning Environment for STEM Education** (Jul'23 - Aug'23)  
+📍 *Shikshaa Academy, Madurai*  
+- Designed an immersive VR environment to make STEM education interactive and engaging.  
+- Integrated gamification elements to enhance student learning outcomes.  
+
+### 🌐 **Student Database System Using Web Development and Server Hosting** (Jun'23 - Jul'23)  
+📍 *Futurik Technologies, Madurai*  
+- Built a comprehensive student database system using HTML, CSS, JavaScript, and server hosting technologies.  
+- Developed a user-friendly interface for managing student records effectively.  
+
+### 🏠 **Predicting House Prices Using Regression Analysis** (Oct'22 - Dec'22)  
+📍 *Velammal College of Engineering and Technology, Madurai*  
+- Created a predictive model using regression analysis to estimate house prices based on various features.  
+- Implemented feature selection, data preprocessing, and regression algorithms for accurate predictions.  
 
 ---
 
@@ -89,4 +118,3 @@ I think I am funny 😄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshinibaski&layout=compact&theme=radical)
 
 ---
-
