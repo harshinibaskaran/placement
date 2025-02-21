@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive VR STEM Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="start-screen">
+            <h2>Enter Your Details</h2>
+            <input type="text" id="player-name" placeholder="Enter Name">
+            <input type="number" id="player-age" placeholder="Enter Age">
+            <button onclick="startGame()">Start Game</button>
+        </div>
+
+        <div id="game-area" style="display: none;">
+            <h3>Click the Shapes in STEM Order to Answer Questions</h3>
+            <div id="score">Score: 0 / 20</div>
+            <div id="high-score">High Score: 0</div>
+            <div id="progress-bar">
+                <div id="progress"></div>
+            </div>
+            <div id="timer">Time Left: 15s</div>
+            <div id="shapes-container"></div>
+            <div id="question-area" style="display:none;">
+                <p id="question-text"></p>
+                <button id="hint-btn" onclick="showHint()">Show Hint</button>
+                <div id="options"></div>
+            </div>
+            <div id="feedback"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
