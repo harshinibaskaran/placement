@@ -8,16 +8,16 @@
 - **Glaucoma Disease Diagnosis with Deep Learning Techniques** (Jun'24 - Aug'24)  
   📍 *Velammal College of Engineering and Technology, Madurai*
 
-### 👯 I’m looking to collaborate on
+### 👯 I have done my project on
 - **Virtual Reality-Based Gamified Learning Environment for STEM Education** (Jul'23 - Aug'23)  
   📍 *Shikshaa Academy, Madurai*
 
-### 🤝 I’m looking for help with
+### 🤝 I have done my project on
 - **Student Database System Using Web Development and Server Hosting** (Jun'23 - Jul'23)  
   📍 *Futurik Technologies, Madurai*
 
 ### 🌱 I’m currently learning
-- Advanced Java  
+- Java  
 - Cybersecurity  
 - Data Science Techniques  
 
